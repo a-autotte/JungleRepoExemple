@@ -1,7 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Jungle_Models.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace Jungle.Data
+namespace Jungle_DataAccess.Data
 {
     public class JungleDbContext : DbContext
     {

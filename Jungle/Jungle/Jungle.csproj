@@ -7,6 +7,29 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\Country\**" />
+    <Compile Remove="Areas\Destination\**" />
+    <Compile Remove="Areas\Guide\**" />
+    <Compile Remove="Areas\TravelRecommendation\**" />
+    <Compile Remove="Areas\Travel\**" />
+    <Content Remove="Areas\Country\**" />
+    <Content Remove="Areas\Destination\**" />
+    <Content Remove="Areas\Guide\**" />
+    <Content Remove="Areas\TravelRecommendation\**" />
+    <Content Remove="Areas\Travel\**" />
+    <EmbeddedResource Remove="Areas\Country\**" />
+    <EmbeddedResource Remove="Areas\Destination\**" />
+    <EmbeddedResource Remove="Areas\Guide\**" />
+    <EmbeddedResource Remove="Areas\TravelRecommendation\**" />
+    <EmbeddedResource Remove="Areas\Travel\**" />
+    <None Remove="Areas\Country\**" />
+    <None Remove="Areas\Destination\**" />
+    <None Remove="Areas\Guide\**" />
+    <None Remove="Areas\TravelRecommendation\**" />
+    <None Remove="Areas\Travel\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.8">
@@ -16,20 +39,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Jungle_Models\Jungle_Models.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Areas\Country\Controllers\" />
-    <Folder Include="Areas\Country\Views\" />
-    <Folder Include="Areas\Destination\Controllers\" />
-    <Folder Include="Areas\Destination\Views\" />
-    <Folder Include="Areas\Guide\Controllers\" />
-    <Folder Include="Areas\Guide\Views\" />
-    <Folder Include="Areas\TravelRecommendation\Controllers\" />
-    <Folder Include="Areas\TravelRecommendation\Views\" />
-    <Folder Include="Areas\Travel\Controllers\" />
-    <Folder Include="Areas\Travel\Views\" />
+    <ProjectReference Include="..\Jungle_DataAccess\Jungle_DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

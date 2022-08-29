@@ -124,3 +124,5 @@ C:\Users\1952247\Desktop\JungleRepoExemple\Jungle\Jungle\obj\Debug\net6.0\refint
 C:\Users\1952247\Desktop\JungleRepoExemple\Jungle\Jungle\obj\Debug\net6.0\Jungle.pdb
 C:\Users\1952247\Desktop\JungleRepoExemple\Jungle\Jungle\obj\Debug\net6.0\Jungle.genruntimeconfig.cache
 C:\Users\1952247\Desktop\JungleRepoExemple\Jungle\Jungle\obj\Debug\net6.0\ref\Jungle.dll
+C:\Users\1952247\Desktop\JungleRepoExemple\Jungle\Jungle\bin\Debug\net6.0\Jungle_DataAccess.dll
+C:\Users\1952247\Desktop\JungleRepoExemple\Jungle\Jungle\bin\Debug\net6.0\Jungle_DataAccess.pdb

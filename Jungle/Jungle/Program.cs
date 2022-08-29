@@ -10,7 +10,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
-using Jungle.Data;
+using Jungle_DataAccess.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<JungleDbContext>(options =>

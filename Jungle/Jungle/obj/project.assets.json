@@ -635,6 +635,21 @@
           }
         }
       },
+      "Jungle_DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Jungle_Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8"
+        },
+        "compile": {
+          "bin/placeholder/Jungle_DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Jungle_DataAccess.dll": {}
+        }
+      },
       "Jungle_Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1866,6 +1881,11 @@
         "version.txt"
       ]
     },
+    "Jungle_DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Jungle_DataAccess/Jungle_DataAccess.csproj",
+      "msbuildProject": "../Jungle_DataAccess/Jungle_DataAccess.csproj"
+    },
     "Jungle_Models/1.0.0": {
       "type": "project",
       "path": "../Jungle_Models/Jungle_Models.csproj",
@@ -1874,7 +1894,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Jungle_Models >= 1.0.0",
+      "Jungle_DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.8"
@@ -1912,8 +1932,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\1952247\\Desktop\\JungleRepoExemple\\Jungle\\Jungle_Models\\Jungle_Models.csproj": {
-              "projectPath": "C:\\Users\\1952247\\Desktop\\JungleRepoExemple\\Jungle\\Jungle_Models\\Jungle_Models.csproj"
+            "C:\\Users\\1952247\\Desktop\\JungleRepoExemple\\Jungle\\Jungle_DataAccess\\Jungle_DataAccess.csproj": {
+              "projectPath": "C:\\Users\\1952247\\Desktop\\JungleRepoExemple\\Jungle\\Jungle_DataAccess\\Jungle_DataAccess.csproj"
             }
           }
         }
