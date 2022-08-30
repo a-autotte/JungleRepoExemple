@@ -7,24 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Areas\Country\**" />
     <Compile Remove="Areas\Destination\**" />
-    <Compile Remove="Areas\Guide\**" />
     <Compile Remove="Areas\TravelRecommendation\**" />
     <Compile Remove="Areas\Travel\**" />
-    <Content Remove="Areas\Country\**" />
     <Content Remove="Areas\Destination\**" />
-    <Content Remove="Areas\Guide\**" />
     <Content Remove="Areas\TravelRecommendation\**" />
     <Content Remove="Areas\Travel\**" />
-    <EmbeddedResource Remove="Areas\Country\**" />
     <EmbeddedResource Remove="Areas\Destination\**" />
-    <EmbeddedResource Remove="Areas\Guide\**" />
     <EmbeddedResource Remove="Areas\TravelRecommendation\**" />
     <EmbeddedResource Remove="Areas\Travel\**" />
-    <None Remove="Areas\Country\**" />
     <None Remove="Areas\Destination\**" />
-    <None Remove="Areas\Guide\**" />
     <None Remove="Areas\TravelRecommendation\**" />
     <None Remove="Areas\Travel\**" />
   </ItemGroup>
@@ -36,6 +28,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.8" />
   </ItemGroup>
 
   <ItemGroup>

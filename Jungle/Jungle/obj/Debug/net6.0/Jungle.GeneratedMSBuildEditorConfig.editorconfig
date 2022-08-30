@@ -8,45 +8,105 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Jungle
 build_property.RootNamespace = Jungle
-build_property.ProjectDir = C:\Users\1952247\Desktop\JungleRepoExemple\Jungle\Jungle\
+build_property.ProjectDir = C:\Users\Alexis Autotte\Desktop\JungleRepoExemple\Jungle\Jungle\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\1952247\Desktop\JungleRepoExemple\Jungle\Jungle
+build_property.MSBuildProjectDirectory = C:\Users\Alexis Autotte\Desktop\JungleRepoExemple\Jungle\Jungle
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/1952247/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Home/Views/Home/Index.cshtml]
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Countries/Views/Country/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291bnRyaWVzXFZpZXdzXENvdW50cnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Countries/Views/Country/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291bnRyaWVzXFZpZXdzXENvdW50cnlcVXBzZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Countries/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291bnRyaWVzXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Countries/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291bnRyaWVzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Countries/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291bnRyaWVzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Destinations/Views/Destination/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGVzdGluYXRpb25zXFZpZXdzXERlc3RpbmF0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Destinations/Views/Destination/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGVzdGluYXRpb25zXFZpZXdzXERlc3RpbmF0aW9uXFVwc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Destinations/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGVzdGluYXRpb25zXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Destinations/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGVzdGluYXRpb25zXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Destinations/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGVzdGluYXRpb25zXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Guides/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3VpZGVzXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Guides/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3VpZGVzXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Guides/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3VpZGVzXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Home/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1952247/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Home/Views/Home/Privacy.cshtml]
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Home/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1952247/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Home/Views/_ViewImports.cshtml]
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Home/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1952247/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Home/Views/_ViewStart.cshtml]
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Home/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1952247/Desktop/JungleRepoExemple/Jungle/Jungle/Views/Shared/Error.cshtml]
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/TravelRecommendations/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVHJhdmVsUmVjb21tZW5kYXRpb25zXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Areas/Travels/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVHJhdmVsc1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1952247/Desktop/JungleRepoExemple/Jungle/Jungle/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1952247/Desktop/JungleRepoExemple/Jungle/Jungle/Views/_ViewImports.cshtml]
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1952247/Desktop/JungleRepoExemple/Jungle/Jungle/Views/_ViewStart.cshtml]
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/1952247/Desktop/JungleRepoExemple/Jungle/Jungle/Views/Shared/_Layout.cshtml]
+[C:/Users/Alexis Autotte/Desktop/JungleRepoExemple/Jungle/Jungle/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-oaqqyjjm2h

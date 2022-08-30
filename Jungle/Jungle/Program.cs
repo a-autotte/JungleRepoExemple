@@ -11,14 +11,21 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using Jungle_DataAccess.Data;
+using Jungle_DataAccess.Repository;
+using Jungle_DataAccess.Repository.IRepository;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<JungleDbContext>(options =>
 options.UseSqlServer(
 builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+builder.Services.AddRazorPages();
+
 
 builder.Services.AddDistributedMemoryCache();
 
@@ -39,7 +46,7 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-
+app.MapRazorPages();
 app.MapControllerRoute(
     name: "default",
     pattern: "{area=Home}/{controller=Home}/{action=Index}/{id?}");
